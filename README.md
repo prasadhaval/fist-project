@@ -1,2 +1,2 @@
 # fist-project
-my fist repository </br> Ownar = Prasad
+my fist repository </br> Ownar = Prasad Haval
